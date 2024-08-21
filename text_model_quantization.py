@@ -57,7 +57,7 @@
 # from helper import W8A16LinearLayer, replace_linear_with_target_and_quantize
 # from huggingface_hub import login
 
-# login(token="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")
+# login(token="")
 
 # model_id = "microsoft/Phi-3-mini-4k-instruct"
 
