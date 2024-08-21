@@ -1,0 +1,1 @@
+This files give you indepth of quantization library here you learn what are the logic behind the quantization how to convert any dtype into W8A16LinearLayer
